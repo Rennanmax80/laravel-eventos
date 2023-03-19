@@ -180,8 +180,21 @@ header {
 
 }
 
+#escription-container {
+    margin-top: 30px;
+}
+
 #items-list li {
     display: flex;
+}
+
+.dashboard-title-container{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.dashboard-events-container th{
+    width: 25%;
 }
 
 footer {
